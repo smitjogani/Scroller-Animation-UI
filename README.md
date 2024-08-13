@@ -1,4 +1,4 @@
-##Responsive scroll animating landing page##
+Responsive scroll animating landing page
 
 👉 languages & libraries: HTML, Tailwind CSS, JavaScript, scroll trigger, gsap
 
